@@ -1,0 +1,15 @@
+Csili razbóra;Boraras brigittae;hal;édes;5;20;https://www.thesprucepets.com/chili-rasbora-care-guide-1380961
+Neonhal;Paracheirodon innesi;hal;édes;7;40;https://www.thesprucepets.com/neon-tetra-care-guide-1378454
+Törpe páncélosharcsa;Corydoras pygmaeus;hal;édes;7;40;https://www.thesprucepets.com/pygmy-corydoras-1381074
+Sziámi algázó;Crossocheilus oblongus;hal;édes;18;75;https://www.thesprucepets.com/siamese-algae-eater-1381020
+Ancistrus (páncélosharcsa);Ancistrus cirrhosus;hal;édes;35;75;https://www.thesprucepets.com/bristlenose-catfish-1380837
+Anubias;Anubias barteri;növény;édes;-;20;https://www.aquariumcoop.com/blogs/aquarium/anubias
+Jávai moha;Taxiphyllum barbieri;növény;édes;-;10;https://www.aquariumcoop.com/blogs/aquarium/java-moss
+Jávai páfrány;Microsorum pteropus; növény;édes;-;20;https://www.aquariumcoop.com/blogs/aquarium/java-fern
+Vallisneria;Vallisneria spiralis;növény;édes;-;40;https://www.aquariumcoop.com/blogs/aquarium/vallisneria
+Marimo mohagolyó;Aegagropila linnaei;növény;édes;-;10;https://www.aquariumcoop.com/blogs/aquarium/marimo-moss-ball
+Postakürt csiga;Planorbarius corneus;csiga;édes;3;10;https://www.aquariumcoop.com/blogs/aquarium/ramshorn-snail
+Tornyos csiga;Melanoides tuberculata;csiga;édes;3;10;https://www.aquariumcoop.com/blogs/aquarium/malaysian-trumpet-snail
+Almácsiga;Pomacea diffusa;csiga;édes;7;20;https://www.aquariumcoop.com/blogs/aquarium/mystery-snail
+Guppi;Poecilia reticulata;hal;édes;8;40;https://www.thesprucepets.com/guppy-fish-profile-1378333
+Platti;Xiphophorus maculatus;hal;édes;10;40;https://www.thesprucepets.com/platy-fish-care-guide-1378457

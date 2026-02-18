@@ -10,6 +10,7 @@ namespace akva_projekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asdf");
         }
     }
 }
